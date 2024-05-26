@@ -1,1 +1,2 @@
-# math_dl_ai
+# dl_ai_math
+DeepLearning.AI Coursera Specialization
